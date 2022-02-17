@@ -2,8 +2,8 @@
 
 <h2> Hey, buddy! I'm Arthur Ferreira!</h2>
 <img align='right' src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="230">
-<p> <em>Student of Computer Enginneering at <a href="https://inatel.br/home/" target="_blank">INATEL and trying Hard to be a Web Developer</a>
-</em></p></br>
+<p>Student of Computer Enginneering at  <em><a href="https://inatel.br/home/" target="_blank">INATEL</a></em> and trying Hard to be a Web Developer
+</p></br>
 
 [![Linkedin: Arthur Ferreira](https://img.shields.io/badge/-ArthurFerreiraSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArthurFerreiraSilva/)]( www.linkedin.com/in/ArthurFerreiraSilva)
 [![GitHub Arthur Ferreira](https://img.shields.io/github/followers/arthur-ngdi?label=follow&style=social)](https://github.com/arthur-ngdi)
