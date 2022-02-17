@@ -11,40 +11,4 @@
 
 ```Java
 
-public class Arthur extends Developer{
-
-    private int energy;
-    private String[] knowledge ;
-
-    public Arthur() {
-        this.knowledge = new String[]{"Java", "SQL", "DataBase", "Python", "JavaScript", "C++", "C" ,"Arduino",
-        "HTML5", "CSS3", "MQTT Protocol ", "GIT"};
-    }
-
-    public String[] getKnowledge() {
-        return knowledge;
-    }
-
-    public void setknowledge(String[] knowledge) {
-        System.out.println("Alura?");
-        this.knowledge = knowledge;
-    }
-
-    public int getEnergy() {
-        return energy;
-    }
-
-    public void setEnergy(int energy) {
-        this.energy = energy;
-    }
-
-    public  void drinkCoffee (){
-        if(this.energy < 100) {
-            System.out.print("let's go!");
-            this.energy = 100;
-        } else {
-             System.out.print("I'm not in need of energy, but every time is a good time for a little coffee!");
-        }
-    }
-}
 ```
