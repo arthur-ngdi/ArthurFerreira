@@ -2,9 +2,9 @@
 
 <h2> Hey, buddy! I'm Arthur Ferreira!</h2>
 <img align='right' src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="230">
-<div aling = 'center'> <p> <em>Student of Cumputer Enginneering at <a href="https://inatel.br/home/" target="_blank">INATEL</a><img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="100"> </div> </br> 
-  Trying Hard to be a Web Developer at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" width="100"> 
-</em></p>
+<div display='flex' align-itens="center" justify-content="center"> <p> <em>Student of Cumputer Enginneering at <a href="https://inatel.br/home/" target="_blank">INATEL</a><img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="100" margin-left = "10px"> </div> </br> 
+ <div display='flex' align-itens="center" justify-content="center"> Trying Hard to be a Web Developer at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" width="100" margin-left = "10px"> 
+</em></p></div>
 
 [![Linkedin: Arthur Ferreira](https://img.shields.io/badge/-ArthurFerreiraSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArthurFerreiraSilva/)]( www.linkedin.com/in/ArthurFerreiraSilva)
 [![GitHub Arthur Ferreira](https://img.shields.io/github/followers/arthur-ngdi?label=follow&style=social)](https://github.com/arthur-ngdi)
