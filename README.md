@@ -13,7 +13,7 @@
 
 import java.util.ArrayList;
 
-public class Arthur extends Pessoa{
+public class Arthur extends Developer{
 
     private int energy;
     ArrayList<String> knowledge = new ArrayList<String>();
