@@ -9,6 +9,56 @@
 
 ### A little more about me...  
 
-```Java
+``` Java
+
+import java.util.ArrayList;
+
+public class Arthur extends Pessoa{
+
+    private int energy;
+    ArrayList<String> knowledge = new ArrayList<String>();
+
+    public Arthur(){
+
+        knowledge.add("Java");
+        knowledge.add("SQL");
+        knowledge.add("DataBase");
+        knowledge.add("Python") ;
+        knowledge.add("JavaScript");
+        knowledge.add("C++");
+        knowledge.add("C");
+        knowledge.add("Arduino");
+        knowledge.add("HTML5");
+        knowledge.add("CSS3");
+        knowledge.add("MQTT Protocol");
+        knowledge.add("GIT");
+}
+
+    public ArrayList getKnowledge() {
+        return knowledge;
+    }
+
+    public void setknowledge(String curso) {
+        System.out.println("Alura?");
+        knowledge.add(curso);
+    }
+
+    public int getEnergy() {
+        return energy;
+    }
+
+    public void setEnergy(int energy) {
+        this.energy = energy;
+    }
+
+    public void drinkCoffee (){
+        if(this.energy < 100) {
+            System.out.print("let's go!");
+            this.energy = 100;
+        } else {
+            System.out.print("I'm not in need of energy, but every time is a good time for a little coffee!");
+        }
+    }
+}
 
 ```
