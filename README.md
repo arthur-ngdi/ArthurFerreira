@@ -56,7 +56,8 @@ public class Arthur extends Developer{
             System.out.print("let's go!");
             this.energy = 100;
         } else {
-            System.out.print("I'm not in need of energy, but every time is a good time for a little coffee!");
+            System.out.print("I'm not in need of energy, " +
+                    "but every time is a good time for a little coffee!");
         }
     }
 }
