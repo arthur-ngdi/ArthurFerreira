@@ -32,6 +32,7 @@ public class Arthur extends Developer{
         knowledge.add("CSS3");
         knowledge.add("MQTT Protocol");
         knowledge.add("GIT");
+        knowledge.add("Docker");
 }
 
     public ArrayList getKnowledge() {
