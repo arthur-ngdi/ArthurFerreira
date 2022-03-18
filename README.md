@@ -18,8 +18,9 @@ public class Arthur extends Developer{
     private int energy;
     ArrayList<String> knowledge = new ArrayList<String>();
 
-    public Arthur(){
-
+    public Arthur(int energy){
+        
+        this.energy = energy;
         knowledge.add("Java");
         knowledge.add("SQL");
         knowledge.add("DataBase");
@@ -46,10 +47,6 @@ public class Arthur extends Developer{
 
     public int getEnergy() {
         return energy;
-    }
-
-    public void setEnergy(int energy) {
-        this.energy = energy;
     }
 
     public void drinkCoffee (){
