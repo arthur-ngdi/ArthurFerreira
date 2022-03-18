@@ -46,7 +46,7 @@ public class Arthur extends Developer{
     }
 
     public int getEnergy() {
-        return energy;
+        return this.energy;
     }
 
     public void drinkCoffee (){
