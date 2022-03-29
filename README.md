@@ -62,7 +62,7 @@ public class Arthur extends Developer{
 
 ```
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
@@ -142,5 +142,5 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/03/2022 01:40:36 UTC
+ Last Updated on 29/03/2022 01:27:13 UTC
 <!--END_SECTION:waka-->
