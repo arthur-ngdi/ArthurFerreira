@@ -109,16 +109,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   30 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Aula 7 - Operações aritmé30 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  30 mins             █████████████████████████   100.0%
 
 ```
 
@@ -135,5 +135,5 @@ Elixir                   2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 05/10/2022 02:10:13 UTC
+ Last Updated on 06/10/2022 02:06:40 UTC
 <!--END_SECTION:waka-->
