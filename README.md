@@ -62,7 +62,7 @@ public class Arthur extends Developer{
 
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -140,5 +140,5 @@ Elixir                   2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 16/11/2022 01:52:03 UTC
+ Last Updated on 17/11/2022 01:50:55 UTC
 <!--END_SECTION:waka-->
