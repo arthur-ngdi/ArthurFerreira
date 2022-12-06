@@ -109,17 +109,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     8 mins              ███████████████████████░░   93.75% 
-EJS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Curso_NodeJS             9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -136,5 +135,5 @@ Elixir                   2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 05/12/2022 01:27:11 UTC
+ Last Updated on 06/12/2022 01:27:52 UTC
 <!--END_SECTION:waka-->
