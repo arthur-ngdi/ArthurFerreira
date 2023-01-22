@@ -62,7 +62,7 @@ public class Arthur extends Developer{
 
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,7 +72,7 @@ public class Arthur extends Developer{
 
 > 🏆 2 Contributions in the Year 2023
  > 
-> 📦 19.0 kB Used in GitHub's Storage 
+> 📦 18.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,5 +140,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2023 01:27:26 UTC
+ Last Updated on 22/01/2023 01:30:10 UTC
 <!--END_SECTION:waka-->
