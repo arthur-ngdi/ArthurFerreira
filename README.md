@@ -126,14 +126,14 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 01:37:30 UTC
+ Last Updated on 22/02/2023 01:25:32 UTC
 <!--END_SECTION:waka-->
