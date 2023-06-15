@@ -62,7 +62,7 @@ public class Arthur extends Developer{
 
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -134,5 +134,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2023 01:26:35 UTC
+ Last Updated on 15/06/2023 01:25:57 UTC
 <!--END_SECTION:waka-->
