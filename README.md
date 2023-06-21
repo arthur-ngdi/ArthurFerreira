@@ -107,18 +107,16 @@ Sunday                   5 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   14 mins             ███████████████████░░░░░░   74.14 % 
-Other                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-C111-L2                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,5 +132,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2023 01:23:33 UTC
+ Last Updated on 21/06/2023 01:25:31 UTC
 <!--END_SECTION:waka-->
