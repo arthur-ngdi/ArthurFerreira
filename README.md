@@ -62,7 +62,7 @@ public class Arthur extends Developer{
 
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -72,11 +72,11 @@ public class Arthur extends Developer{
 
 > 📦 19.1 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2023
+> 🏆 11 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -135,5 +135,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2023 01:55:21 UTC
+ Last Updated on 26/06/2023 01:48:53 UTC
 <!--END_SECTION:waka-->
